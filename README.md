@@ -1,6 +1,6 @@
 # COMP3000_Housing_rental_management_system
   Used for Plymouth University graduation project  
-# Author Information: 
+# Author Information
 1. Name : Huan Bu
 2. Student Reference Number : 10719608
 # Project Version : Version1
@@ -9,7 +9,7 @@ The first version of the project mainly completed the following functions:
 2. The function of browsing housing information;
 3. Search different house information functions according to different conditions;
 
-# Project Objectives: 
+# Project Objectives
 1. Retrieve quickly - more precise and faster search through multiple criteria; Such as the location of the housing supply; Area; The rent; Room type and other conditions, common 
 2. Search in line with user needs of the housing; 
 3. High efficiency - Through the voice recognition function, can quickly enter the user's search content; 
@@ -18,7 +18,7 @@ The first version of the project mainly completed the following functions:
 6. Large storage capacity - Housing rental management system can accommodate housing from all over the world, providing users with a wealth of choices; 
 7. Excellent Confidentiality - Login registration through face recognition can improve user personal information security and system privacy;
 
-# Functional requirements:
+# Functional requirements
 The user roles of the housing rental management system are mainly divided into three types: 1. Visitor; 2. User; 3. Administrator.
 The following are the functional requirements that the housing rental management system needs to meet:
 # Visitors
@@ -34,7 +34,7 @@ The following are the functional requirements that the housing rental management
 # Administrator
 1. for the administrator to increase the one of the biggest function is about the statistics of the profits, the administrator can search page enter start and end time in profit, search within a period of time, the number of rental housing, as well as the detailed information of the building, and the administrator can also see the level of profitability, it was a time when convenient administrators to manage the information.
 2. In addition to profit retrieval, a more important change is the statistics of housing information. Administrators can click the button waiting for application on the housing information statistics page to query the housing information waiting for application; Click on the "Deadline" button to check the housing information before the Deadline; Click "Delay" button to query delayed housing information; Click 'Total' to query the information of the whole house; Click 'Empty' to display information about Empty houses; Click on the 'Rented' properties to display information etc. It'll show you the annual profit and the monthly profit of the house and so on.
-# Related library:
+# Related library
 1. certifi==2021.10.8
 2. Django==2.2.5
 3. django-admin-tools==0.9.2
