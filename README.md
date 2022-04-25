@@ -1,3 +1,5 @@
+![Plymouth Logo](https://user-images.githubusercontent.com/64517811/165017815-866b8dfa-13fa-4374-883f-d996cf986fdd.png)
+
 # COMP3000_Housing_rental_management_system
   Used for Plymouth University graduation project  
 # Author Information
