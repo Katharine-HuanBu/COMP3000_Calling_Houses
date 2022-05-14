@@ -82,3 +82,19 @@ The following are the functional requirements that the housing rental management
 10. pytz==2021.3
 11. six==1.16.0
 12. sqlparse==0.4.2
+# Running the project locally
+1. Drop down the repository: https://github.com/Katharine-HuanBu/COMP3000_Calling_Houses.git
+2. Use PyCharm to open the project file.
+3. Change the database connection name and password and port in setting.py.
+4. Install the dependencies: pip install -r requirements.txt
+5. Start the service: python manage.py runserver
+# jquery plugins
+https://www.jqueryscript.net/categories/
+# Sentiment analysis
+https://github.com/huggingface/transformers/blob/main/README_zh-hans.md
+```python
+from transformers import pipeline
+classifier = pipeline('sentiment-analysis')
+classifier('We are very happy to introduce pipeline to the transformers repository.')
+# [{'label': 'POSITIVE', 'score': 0.9996980428695679}]
+```
