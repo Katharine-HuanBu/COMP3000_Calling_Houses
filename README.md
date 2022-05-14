@@ -1,41 +1,74 @@
 ![Plymouth Logo](https://user-images.githubusercontent.com/64517811/165017815-866b8dfa-13fa-4374-883f-d996cf986fdd.png)
 
-# COMP3000_Housing_rental_management_system
-  Used for Plymouth University graduation project  
+# Project title
+   Calling Houses_Housing rental management system 
 # Author Information
 1. Name : Huan Bu
 2. Student Reference Number : 10719608
-# Project Version : Version1
-The first version of the project mainly completed the following functions:
-1. User login and registration function;
-2. The function of browsing housing information;
-3. Search different house information functions according to different conditions;
-
+# Project Allocated supervisor
+Lingfen Sun
+Associate Professor in Multimedia Comms and Networks
 # Project Objectives
-1. Retrieve quickly - more precise and faster search through multiple criteria; Such as the location of the housing supply; Area; The rent; Room type and other conditions, common 
-2. Search in line with user needs of the housing; 
-3. High efficiency - Through the voice recognition function, can quickly enter the user's search content; 
-4. Low cost - Housing rental management system can liberate people from labor, reduce labor costs; 
-5. High reliability - Through face recognition login registration, can improve the user's personal information security and system security;
-6. Large storage capacity - Housing rental management system can accommodate housing from all over the world, providing users with a wealth of choices; 
-7. Excellent Confidentiality - Login registration through face recognition can improve user personal information security and system privacy;
-
+1. Quick search - more accurate and faster search through multiple criteria; Such as the location of housing supply; Area; The rent; Room type and other conditions, common
+2. Search for houses that meet users' needs;
+3. Low cost - housing rental management system can liberate people from labor, reduce labor costs;
+4. Large storage capacity -- housing rental management system can accommodate houses from all over the world, providing users with a wealth of choices;
+5. Excellent confidentiality -- through dynamic verification code, improve the security of user personal information and system privacy;
+6. Sentiment analysis -- Users can share rental comments, and the system classifies the comments to help other users better understand the housing situation.
 # Functional requirements
 The user roles of the housing rental management system are mainly divided into three types: 1. Visitor; 2. User; 3. Administrator.
 The following are the functional requirements that the housing rental management system needs to meet:
 # Visitors
-1. The functional requirements of tourists itself is not a lot, but in order to guarantee that the house lease management system using the quality and efficiency, visitors can also according to different conditions to search houses, such as the name of the building, the location of the building, the area size of the building, housing prices, housing condition and so on different conditions can be searched.
-2. Visitors can also according to the different housing conditions for housing information for sorting, for example, the housing ID can be from big to small or from small to large, arrangement can be carried out in accordance with the building name initials arranged, can be in accordance with the details of the house of words the first letters, can also according to the size of the house, can be arranged according to the price of the house, They can be arranged by the location of the house, they can be arranged by the time the house was updated, they can be arranged by the state of the house.
-3. In order to ensure the security of tourists' registration and login system, we have specially added dynamic verification code. Tourists can protect their personal information by means of dynamic verification code when they register and log in.
+1) Visitors can log in to the system.
+2) Visitors can register for the system.
+3) Visitors can browse the details of all houses.
+4) Visitors can search for houses according to different house conditions.
 # Users
-1. In order to ensure the security of user registration and login system, we also specially add dynamic verification code, users can use dynamic verification code to protect their personal information when registering and logging in.
-2. Users can also according to the different housing conditions for housing information for sorting, for example, the housing ID can be from big to small or from small to large, arrangement can be carried out in accordance with the building name initials, may, in accordance with the details of the house of words the first letters, can also according to the size of the house, can be arranged according to the price of the house, They can be arranged by the location of the house, they can be arranged by the time the house was updated, they can be arranged by the state of the house.
-3. Users can also query the house information they want to rent according to their own needs, and can choose to rent the house, read the contract, manually enter the lease period, the system calculates the deadline and rent, convenient for users to use, to provide the efficiency of housing lease;
-4. The user can also extend the lease of the house, when the house is still in effect, the user has a chance to extend the lease of the house, so that the user can rent the house for a longer time;
-5. When the user rents the house or extends the lease of the house, when suddenly do not want to rent the house, they can choose to return the house. Click the user center to view the detailed information of the house you rent, and choose to cancel or surrender the house you rent. When the user confirms to vacate the house, the state of the house will be displayed as the application for vacating the house. After the backstage administrator agrees to the user's vacating the house, the user can vacate the house. This ensures the rationality and fairness of the whole rental house.
+1) Users can log in to the system.
+2) Users can log out of the system.
+3) Users can view information about the rental properties in the User Centre.
+4) Users can view the details of all properties.
+5) Users can search for properties according to different housing conditions.
+6) The user can sort the properties according to the different property criteria.
+7) You can rent a property.
+8) You can pay to rent a property.
+9) The user can extend the rental period of a property.
+10) The user can pay rent for the delayed rental period.
+11) The user can withdraw from the rental.
+12) You can change your personal password.
+13) The user can read the contract of the rented property.
+14) The user can comment on the housing.
+15) The user can see what other people have said about the property in the details of the property.
+16) The user can see the system analyse the sentiment of the user's comments, positive or negative.
+17) The user can see the visualisation of the sentiment analysis of the comments.
 # Administrator
-1. for the administrator to increase the one of the biggest function is about the statistics of the profits, the administrator can search page enter start and end time in profit, search within a period of time, the number of rental housing, as well as the detailed information of the building, and the administrator can also see the level of profitability, it was a time when convenient administrators to manage the information.
-2. In addition to profit retrieval, a more important change is the statistics of housing information. Administrators can click the button waiting for application on the housing information statistics page to query the housing information waiting for application; Click on the "Deadline" button to check the housing information before the Deadline; Click "Delay" button to query delayed housing information; Click 'Total' to query the information of the whole house; Click 'Empty' to display information about Empty houses; Click on the 'Rented' properties to display information etc. It'll show you the annual profit and the monthly profit of the house and so on.
+1) The administrator can log in to the back office system.
+2) The administrator can log out of the system.
+3) The administrator can return to the front page.
+4) The administrator can view the user's information.
+5) The administrator can add users' information.
+6) The administrator can delete the user's information.
+7) The administrator can view the monthly profit of the lease.
+8) The administrator can view the annual profit of the house rental.
+9) The administrator can retrieve and count the profit of the house rental over a period of time.
+10) The administrator can search for a property by its name or status.
+11) The administrator can add information about a property.
+12) The administrator can delete the information of a property.
+13) The administrator can edit the information of the house.
+14) The administrator can add pictures of a house.
+15）Administrators can delete pictures of properties.
+16) The administrator can view the information of the properties that have been requested to be unsubscribed.
+17) The administrator can view the information of the properties that have been postponed.
+18) The administrator can change the password.
+19) The administrator can adjust the font size of the displayed page.
+20) The administrator can change the background colour of the theme displayed in the background.
+21) The administrator can choose the visualisation method according to the housing profit statistics, such as bar graph or line graph.
+22) The administrator can download the visualisation of the housing profit.
+23) The administrator can add user comments.
+24) The administrator can delete user comments.
+25) The administrator can edit user comments.
+26) The administrator can review the housing information that the user has requested to unsubscribe.
+27) The administrator can view the information of the properties that have been reviewed and unsubscribed.
 # Related library
 1. certifi==2021.10.8
 2. Django==2.2.5
