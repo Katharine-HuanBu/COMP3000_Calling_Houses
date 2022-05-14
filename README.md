@@ -98,3 +98,25 @@ classifier = pipeline('sentiment-analysis')
 classifier('We are very happy to introduce pipeline to the transformers repository.')
 # [{'label': 'POSITIVE', 'score': 0.9996980428695679}]
 ```
+# Poster
+![10719608](https://user-images.githubusercontent.com/64517811/168441639-722e6390-b9b5-4353-ac1a-0b589e1eee3a.jpg)
+
+# Visitor and User -Main Page 
+![image](https://user-images.githubusercontent.com/64517811/168441709-50289927-2afc-48c0-a11a-d88ebed16ae2.png)
+# Visitor and User - House detail page
+![image](https://user-images.githubusercontent.com/64517811/168441726-58a7f18d-bd25-4315-8e1c-54da9e573b45.png)
+# Visitor and User - User comment visualisation results page
+![image](https://user-images.githubusercontent.com/64517811/168441733-d4462be2-23f8-4c53-8e23-75bc9b5bdab0.png)
+# Visitor and User - Housing information overview page
+![image](https://user-images.githubusercontent.com/64517811/168441744-01a8181e-4fea-4f38-b4b2-848461af77ae.png)
+# Administrator - Housing rental profit statistics page
+![image](https://user-images.githubusercontent.com/64517811/168441759-604de677-c676-45a7-9cb8-2aa892d52ab2.png)
+# Administrator - Housing rental profit search page
+![image](https://user-images.githubusercontent.com/64517811/168441766-b0dfe2b5-b90e-4b6e-ac17-a4cbb8a03215.png)
+# Administrator - Housing information management page
+![image](https://user-images.githubusercontent.com/64517811/168441782-1b0e6c2d-ce29-4337-923e-53aa2541acd8.png)
+
+
+
+
+
