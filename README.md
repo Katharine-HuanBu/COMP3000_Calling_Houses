@@ -9,12 +9,13 @@
 Lingfen Sun
 Associate Professor in Multimedia Comms and Networks
 # Project Objectives
-1. Quick search - more accurate and faster search through multiple criteria; Such as the location of housing supply; Area; The rent; Room type and other conditions, common
-2. Search for houses that meet users' needs;
-3. Low cost - housing rental management system can liberate people from labor, reduce labor costs;
-4. Large storage capacity -- housing rental management system can accommodate houses from all over the world, providing users with a wealth of choices;
-5. Excellent confidentiality -- through dynamic verification code, improve the security of user personal information and system privacy;
-6. Sentiment analysis -- Users can share rental comments, and the system classifies the comments to help other users better understand the housing situation.
+1. Quick search - more accurate and faster search through multiple criteria; Such as the location of housing supply; Area; The rent; Room type and other conditions, common Search for houses that meet users' needs;
+2. Low cost - housing rental management system can liberate people from labor, reduce labor costs;
+3. Large storage capacity -- housing rental management system can accommodate houses from all over the world, providing users with a wealth of choices;
+4. Excellent confidentiality -- through dynamic verification code, improve the security of user personal information and system privacy;
+5. Sentiment analysis -- Users can share rental comments, and the system classifies the comments to help other users better understand the housing situation.
+# project vision
+A web development project for a housing rental management system. It focuses on these two aspects, helping customers to rent the ideal property and improving the efficiency of the administrator's management of rental information. The application is designed to provide customers with a wide range of properties and uses the BERT model of natural language processing and deep learning to analyse the sentiment of customer reviews to help customers choose the right property.
 # Functional requirements
 The user roles of the housing rental management system are mainly divided into three types: 1. Visitor; 2. User; 3. Administrator.
 The following are the functional requirements that the housing rental management system needs to meet:
