@@ -89,16 +89,16 @@ DATABASES = {
     }
 }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql', # 默认
-#         'NAME': 'django_shetuan',  # 连接的数据库
-#         'HOST': '127.0.0.1',  # mysql的ip地址
-#         'PORT': 3306,  # mysql的端口
-#         'USER': 'tianjin',  # mysql的用户名
-#         'PASSWORD': 'tianjin'  # mysql的密码
-#     }
-# }
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql', # The default
+        'NAME': 'django_uk_calling_houses',  # Connected database
+        'HOST': '127.0.0.1',  # IP address of mysql
+        'PORT': 3306,  # Mysql port
+        'USER': 'root',  # User name of mysql
+        'PASSWORD': 'root'  # The mysql password
+    }
+}
 
 
 # Password validation
@@ -146,6 +146,6 @@ MEDIA_URL = '/media/'
 
 LOGIN_URL = '/account/login/'
 
-CKEDITOR_UPLOAD_PATH = "ck_img" # 图片上传路径
+CKEDITOR_UPLOAD_PATH = "ck_img" # Image Upload Path
 
 SIMPLEUI_HOME_INFO = False
